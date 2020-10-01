@@ -5,6 +5,7 @@ import PropTypes from 'prop-types';
 
 import styles from './styles';
 import colors from '../../config/colors';
+import colors from '../../config/colors';
 
 let rowColors = ['#A975FA', '#00c4ff', '#08f472', '#fbe601', '#FF7D59'];
 
